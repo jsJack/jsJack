@@ -1,5 +1,5 @@
 # Jack ☄️
-Hey! I'm Jack, or Infinity((Dev)[https://old.infinitydev.me]).
+Hey! I'm Jack, or Infinity([Dev](https://old.infinitydev.me)).
 I'm a 17-year old System Administrator and JavaScript Developer based in the UK! 🇬🇧
 
 > I enjoy coding, hanging out with friends and watching Netflix.
