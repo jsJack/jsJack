@@ -1,22 +1,20 @@
 # Jack ☄️
-Hey! I'm Jack, or Infinity([Dev](https://old.infinitydev.me)).
+Hey! I'm Jack, or Infinity([Dev](https://infinitydev.me)).
 I'm a 17-year old System Administrator and JavaScript Developer based in the UK! 🇬🇧
 
 > I enjoy coding, hanging out with friends and watching Netflix.
-> 
-> I'm watching Brooklyn Nine-Nine on Netflix at the moment.
 
 # My Projects 🔧
-I am actively working on **Project Myr** with the [Protagnst Events Team](https://discord.gg/protagnst)
+I run [Matrix Digital](https://matrixdigital.co) 👩‍💻
 
-I created Pixel, a freelance bot for the [Pixel Projects](https://discord.gg/freelancers) server *[Still WIP]*
+I own and operate [Vypern Hosting](https://vypern.com) 🐍
 
-> I like working with Discord Bots, I'm learning HTML for basic Bootstrap design and Java for Minecraft Plugins
+I created Pixel, a freelance bot for the [Pixel Projects](https://discord.gg/freelancers) server *[Still WIP]* 👾
+
+> I like working with Discord Bots, I'm learning HTML & Bootstrap for web frontend and Java for Minecraft Plugins
 
 # Work with me 📩
 Want to work with me?
 I'm open for commissions!
 
-You can join the [Protagnst Discord Server](https://discord.gg/protagnst) and message me - `Jack.#2022`
-
-Alternatively, if you prefer E-Mail, drop me a line! `jack@protagnst.ca` or `jack@jx.wtf` :D
+E-Mail me [here](mailto://hello@jackperry.co) (`hello at jackperry dot co`), or join my [Discord Server](https://discord.gg/freelancers) and message me from there. (`JackP#0001`)
