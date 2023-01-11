@@ -17,4 +17,4 @@ I created Pixel, a freelance bot for the [Pixel Projects](https://discord.gg/fre
 Want to work with me?
 I'm open for commissions!
 
-E-Mail me [here](mailto://hello@jackperry.co) (`hello at jackperry dot co`), or join my [Discord Server](https://discord.gg/freelancers) and message me from there. (`JackP#0001`)
+E-Mail me [here](mailto:hello@jackperry.co) (`hello at jackperry dot co`), or join my [Discord Server](https://discord.gg/freelancers) and message me from there. (`JackP#0001`)
