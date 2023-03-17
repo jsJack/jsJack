@@ -1,13 +1,12 @@
-# Jack ☄️
-Hey! I'm Jack, or Infinity([Dev](https://infinitydev.me)).
+# Jack Perry ☄️
+Hey! I'm Jack, formerly InfinityDev.
 I'm a 17-year old System Administrator and JavaScript Developer based in the UK! 🇬🇧
+*This will be updated soon, I promise*
 
 > I enjoy coding, hanging out with friends and watching Netflix.
 
 # My Projects 🔧
-I run [Matrix Digital](https://matrixdigital.co) 👩‍💻
-
-I own and operate [Vypern Hosting](https://vypern.com) 🐍
+I run Matrix Digital 👩‍💻
 
 I created Pixel, a freelance bot for the [Pixel Projects](https://discord.gg/freelancers) server *[Still WIP]* 👾
 
