@@ -18,5 +18,5 @@ So apparently I'm meant to leave my contact details here. Contact me if you want
 # My Git Stats 🌟
 > That you probably care very little about
 
-![jsJack's GitHub stats](https://github-readme-stats.vercel.app/api?username=jsJack&show_icons=true&theme=radical)
-![jsJack's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jsJack)
+![jsJack's GitHub stats](https://gh-stats.jackperry.co/api?username=jsJack&show_icons=true&theme=radical)
+![jsJack's Top Languages](https://gh-stats.jackperry.co/api/top-langs/?username=jsJack)
