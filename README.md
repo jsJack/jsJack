@@ -7,10 +7,9 @@ A backend web/API developer, with interest in game server development.\
 In my free time, I like to watch Netflix and play games like Forza Horizon 5 with friends.\
 My favorite language is JavaScript (NodeJS), and I'm experimenting with frontend web development.
 
+<img align="right" width=360px alt="GIF" src="https://media1.giphy.com/media/citBl9yPwnUOs/giphy.gif"/>
 
 ### ✨ Interesting facts about me
-
-<img align="right" width=360px alt="GIF" src="https://media1.giphy.com/media/citBl9yPwnUOs/giphy.gif"/>
 
 * 🔧 I'm working on various utility tools. (Releasing soon!)
 * 🌐 I'm learning web frontend.
