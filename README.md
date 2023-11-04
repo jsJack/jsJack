@@ -3,11 +3,10 @@
   <img src="https://komarev.com/ghpvc/?username=jsJack&label=Profile%20views&color=c464ed&style=flat" align="right">
 </h3>
 
-<p>
-  A backend web/API developer, with interest in game server development.
-  In my free time, I like to watch Netflix and play games like Forza Horizon 5 with friends.
-  My favorite language is JavaScript (NodeJS), and I'm experimenting with frontend web development.
-</p>
+A backend web/API developer, with interest in game server development.\
+In my free time, I like to watch Netflix and play games like Forza Horizon 5 with friends.\
+My favorite language is JavaScript (NodeJS), and I'm experimenting with frontend web development.
+
 
 ### ✨ Interesting facts about me
 
