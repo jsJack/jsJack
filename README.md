@@ -66,6 +66,8 @@ If you're interested in reaching out, here's how:
 ### 🔢 My Statistics
 ![My GitHub Stats](https://gh-stats.jackperry.co/api?username=jsJack&show_icons=true&theme=dark#gh-dark-mode-only)
 ![Top Langs](https://gh-stats.jackperry.co/api/top-langs/?username=jsJack&hide=lua&layout=compact&theme=dark#gh-dark-mode-only)
+[![GitHub Streak](https://github-readme-streak-stats-pi-gilt.vercel.app?user=jsJack&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
 <!-- ![My GitHub Stats Light Mode](https://gh-stats.jackperry.co/api?username=jsJack&show_icons=true&theme=default#gh-light-mode-only) -->
 <!-- ![Top Langs Light Mode](https://gh-stats.jackperry.co/api/top-langs/?username=jsJack&hide=lua&layout=compact&theme=default#gh-light-mode-only) -->
+<!-- [![GitHub Streak Light Mode](https://github-readme-streak-stats-pi-gilt.vercel.app?user=jsJack&theme=default&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats) -->
