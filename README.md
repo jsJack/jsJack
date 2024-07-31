@@ -4,7 +4,7 @@
 </h3>
 
 A Linux systems administrator & backend web/API developer, with interest in game server development.\
-In my free time, I'm watching [Prison Break](https://www.disneyplus.com/en-gb/series/prison-break/7O2SFMVATNe5) and playing [Hitman World of Assassination](https://store.epicgames.com/en-US/p/hitman-3--woa-deluxe-edition).\
+In my free time, I'm watching [The Rookie](https://www.imdb.com/title/tt7587890/) and playing [Hitman World of Assassination](https://store.epicgames.com/en-US/p/hitman-3--woa-deluxe-edition).\
 My favorite language is JavaScript (NodeJS), and I'm experimenting with frontend web development.
 
 <img align="right" width=360px alt="GIF" src="https://media1.giphy.com/media/citBl9yPwnUOs/giphy.gif"/>
