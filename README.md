@@ -4,7 +4,7 @@
 </h3>
 
 A Linux systems administrator & backend web/API developer, with interest in game server development.\
-In my free time, I'm watching [The Rookie](https://www.imdb.com/title/tt7587890/) and playing [Hitman World of Assassination](https://store.epicgames.com/en-US/p/hitman-3--woa-deluxe-edition).\
+In my free time, I'm watching [Line of Duty](https://www.bbc.co.uk/iplayer/episodes/p00yzlr0/line-of-duty) and playing [Hitman World of Assassination](https://store.epicgames.com/en-US/p/hitman-3--woa-deluxe-edition).\
 My favorite language is JavaScript (NodeJS), and I'm experimenting with frontend web development.
 
 <img align="right" width=360px alt="GIF" src="https://media1.giphy.com/media/citBl9yPwnUOs/giphy.gif"/>
@@ -14,8 +14,8 @@ My favorite language is JavaScript (NodeJS), and I'm experimenting with frontend
 * 🔧 I'm working on various utility tools. (Releasing soon!)
 * 🌐 I'm learning web frontend.
 * 💬 I can speak a basic amount of Spanish.
-* 🌟 I use Windows 11 Pro.
-* 📚 I use 2 programming langauges daily, and I know 4.
+* 🌟 I use AtlasOS 4 (based on Windows 11 Pro).
+* 📚 I use 4 programming langauges daily, and I know 6.
 * 🎧 [This](https://www.last.fm/user/JackIsNotReal) is the music I listen to.
 
 ### 📧 My socials
@@ -24,9 +24,9 @@ If you're interested in reaching out, here's how:
 
 * 💬 Discord: [@js.jack](https://discord.com/users/324596012955992065)
 * 📧 E-Mail: [hello@jackperry.co](mailto:hello@jackperry.co) (`hello at jackperry dot co`)
-* 🐦 Twitter: [@jsJackDev](https://x.com/jsjackdev)
+* 🐦 Twitter: [@jackpxrry](https://x.com/jackpxrry)
 * 🤝 Linkedin: [Jack Perry](https://www.linkedin.com/in/jxckperry/)
-* 🌶️ Spiceworks: [Jack-Perry](https://community.spiceworks.com/people/jack-perry)
+* 📸 Instagram: [__jackperry](https://instagram.com/__jackperry)
 
 > 💡 Ranked most to least responsive
 
