@@ -14,7 +14,7 @@ My favorite language is JavaScript (NodeJS), and I'm experimenting with frontend
 * 🔧 I'm working on various utility tools. (Releasing soon!)
 * 🌐 I'm learning web frontend.
 * 💬 I can speak a basic amount of Spanish.
-* 🌟 I use AtlasOS 4 (based on Windows 11 Pro).
+* 🌟 I use AtlasOS 0.4 (based on Windows 11 Pro).
 * 📚 I use 4 programming langauges daily, and I know 6.
 * 🎧 [This](https://www.last.fm/user/JackIsNotReal) is the music I listen to.
 
