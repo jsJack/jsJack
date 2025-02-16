@@ -4,14 +4,14 @@
 </h3>
 
 A Linux systems administrator & backend web/API developer, with interest in game server development.\
-In my free time, I'm watching [Line of Duty](https://www.bbc.co.uk/iplayer/episodes/p00yzlr0/line-of-duty) and playing [Hitman World of Assassination](https://store.epicgames.com/en-US/p/hitman-3--woa-deluxe-edition).\
-My favorite language is JavaScript (NodeJS), and I'm experimenting with frontend web development.
+In my free time, my favourite game to play is [Hitman: World of Assassination](https://ioi.dk/hitman) and my favourite TV show to watch is [Brooklyn Nine-Nine](https://www.imdb.com/title/tt2467372/).\
+My favorite language is JavaScript ([Node.js](https://nodejs.org/en), and I'm experimenting with frontend web development via [The Odin Project](https://theodinproject.com).
 
 <img align="right" width=360px alt="GIF" src="https://media1.giphy.com/media/citBl9yPwnUOs/giphy.gif"/>
 
 ### ✨ Interesting facts about me
 
-* 🔧 I'm working on various utility tools. (Releasing soon!)
+* 🔧 I'm working on my [Discord Bot Framework](https://github.com/jsJack/Framework-v14).
 * 🌐 I'm learning web frontend.
 * 💬 I can speak a basic amount of Spanish.
 * 🌟 I use AtlasOS 0.4 (based on Windows 11 Pro).
@@ -24,9 +24,9 @@ If you're interested in reaching out, here's how:
 
 * 💬 Discord: [@js.jack](https://discord.com/users/324596012955992065)
 * 📧 E-Mail: [hello@jackperry.co](mailto:hello@jackperry.co) (`hello at jackperry dot co`)
+* 📸 Instagram: [__jackperry](https://instagram.com/__jackperry)
 * 🐦 Twitter: [@jackpxrry](https://x.com/jackpxrry)
 * 🤝 Linkedin: [Jack Perry](https://www.linkedin.com/in/jxckperry/)
-* 📸 Instagram: [__jackperry](https://instagram.com/__jackperry)
 
 > 💡 Ranked most to least responsive
 
@@ -68,6 +68,7 @@ If you're interested in reaching out, here's how:
 ![Top Langs](https://gh-stats.jackperry.co/api/top-langs/?username=jsJack&hide=lua&layout=compact&theme=dark#gh-dark-mode-only)
 [![GitHub Streak](https://github-readme-streak-stats-pi-gilt.vercel.app?user=jsJack&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
+<!-- I wonder when I'll fix this? - Jack, 16th Feb 2025 -->
 <!-- ![My GitHub Stats Light Mode](https://gh-stats.jackperry.co/api?username=jsJack&show_icons=true&theme=default#gh-light-mode-only) -->
 <!-- ![Top Langs Light Mode](https://gh-stats.jackperry.co/api/top-langs/?username=jsJack&hide=lua&layout=compact&theme=default#gh-light-mode-only) -->
 <!-- [![GitHub Streak Light Mode](https://github-readme-streak-stats-pi-gilt.vercel.app?user=jsJack&theme=default&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats) -->
