@@ -5,7 +5,7 @@
 
 A Linux systems administrator & backend web/API developer, with interest in game server development.\
 In my free time, my favourite game to play is [Hitman: World of Assassination](https://ioi.dk/hitman) and my favourite TV show to watch is [Brooklyn Nine-Nine](https://www.imdb.com/title/tt2467372/).\
-My favorite language is JavaScript ([Node.js](https://nodejs.org/en), and I'm experimenting with frontend web development via [The Odin Project](https://theodinproject.com).
+My favorite language is JavaScript ([Node.js](https://nodejs.org/en)), and I'm experimenting with frontend web development via [The Odin Project](https://theodinproject.com).
 
 <img align="right" width=360px alt="GIF" src="https://media1.giphy.com/media/citBl9yPwnUOs/giphy.gif"/>
 
